@@ -1,3 +1,5 @@
+![Test Image 1](Screenshot from 2020-09-13 18-05-04.png)
+
 <table style="width:100%"> 
         <tr> 
             <th>Functionality</th> 
