@@ -1,4 +1,4 @@
-![Test Image 1](Screenshot from 2020-09-13 18-05-04.png)
+![Test Image 1](https://github.com/abhijeetsp98/RESTfull-route/blob/master/Screenshot%20from%202020-09-13%2018-05-04.png)
 
 <table style="width:100%"> 
         <tr> 
